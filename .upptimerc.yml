@@ -15,7 +15,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/ThomasIAm/personal-site-hydejack/master/assets/img/logo.svg
-  name: TvdN
+  name: TvdN | Status
   introTitle: "**Thomas van den Nieuwenhoff**'s services status."
   introMessage: This page shows the real-time status of all services hosted by Thomas van den Nieuwenhoff.
   navbar:
@@ -26,3 +26,11 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+user-agent: ThomasIAm
+
+notifications:
+  - type: discord
+  
+assignees:
+  - ThomasIAm
