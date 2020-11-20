@@ -1,7 +1,7 @@
 - url: https://wiki.tvdn.me
-- status: down
-- code: 530
-- responseTime: 81
-- lastUpdated: 2020-11-20T14:28:33.179Z
+- status: up
+- code: 200
+- responseTime: 548
+- lastUpdated: 2020-11-20T14:36:13.603Z
 - startTime: 2020-11-20T13:20:11.380Z
 - generator: Upptime <https://github.com/upptime/upptime>
