@@ -3,16 +3,16 @@
     "name": "tvdn.me",
     "url": "https://www.tvdn.me",
     "slug": "tvdn-me",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 294
+    "status": "down",
+    "uptime": "100.00%",
+    "time": 221
   },
   {
     "name": "wiki.tvdn.me",
     "url": "https://wiki.tvdn.me",
     "slug": "wiki-tvdn-me",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 454
   }
 ]
