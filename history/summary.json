@@ -2,17 +2,39 @@
   {
     "name": "tvdn.me",
     "url": "https://www.tvdn.me",
+    "icon": "https://favicons.githubusercontent.com/www.tvdn.me",
     "slug": "tvdn-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 204
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 256,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 256,
+    "dailyMinutesDown": {
+      "2021-01-18": 0
+    }
   },
   {
     "name": "wiki.tvdn.me",
     "url": "https://wiki.tvdn.me",
+    "icon": "https://favicons.githubusercontent.com/wiki.tvdn.me",
     "slug": "wiki-tvdn-me",
     "status": "up",
     "uptime": "100.00%",
-    "time": 454
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 455,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 455,
+    "dailyMinutesDown": {}
   }
 ]
