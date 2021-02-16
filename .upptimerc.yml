@@ -14,7 +14,7 @@ status-website:
   cname: status.tvdn.me
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/ThomasIAm/personal-site-hydejack/master/assets/img/logo.svg
+  logoUrl: https://raw.githubusercontent.com/ThomasIAm/personal-site-hydejack/master/assets/global/img/logo/logo.svg
   name: TvdN | Status
   introTitle: "**Thomas van den Nieuwenhoff**'s services status."
   introMessage: This page shows the real-time status of all services hosted by Thomas van den Nieuwenhoff.
