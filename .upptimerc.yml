@@ -23,7 +23,6 @@ status-website:
       href: /
     - title: About Me
       href: https://www.tvdn.me/about
-  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
