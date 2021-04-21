@@ -5,9 +5,17 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: tvdn.me
-    url: https://www.tvdn.me
+    url: https://tvdn.me
   - name: wiki.tvdn.me
     url: https://wiki.tvdn.me
+  - name: ai.tvdn.me
+    url: https://ai.tvdn.me
+  - name: old.tvdn.me
+    url: https://old.tvdn.me
+  - name: pp3.tvdn.me
+    url: https://pp3.tvdn.me
+  - name: vm2.tvdn.me
+    url: https://vm2.tvdn.me
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -21,8 +29,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: About Me
-      href: https://www.tvdn.me/about
+    - title: About
+      href: https://tvdn.me/about
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
