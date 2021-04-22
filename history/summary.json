@@ -66,19 +66,17 @@
     "icon": "https://favicons.githubusercontent.com/ai.tvdn.me",
     "slug": "ai-tvdn-me",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 475,
     "timeDay": 366,
     "timeWeek": 475,
     "timeMonth": 475,
     "timeYear": 475,
-    "dailyMinutesDown": {
-      "2021-04-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "old.tvdn.me",
@@ -103,19 +101,19 @@
     "url": "https://pp3.tvdn.me",
     "icon": "https://favicons.githubusercontent.com/pp3.tvdn.me",
     "slug": "pp3-tvdn-me",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 390,
-    "timeDay": 371,
-    "timeWeek": 390,
-    "timeMonth": 390,
-    "timeYear": 390,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 445,
+    "timeDay": 450,
+    "timeWeek": 445,
+    "timeMonth": 445,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2021-04-22": 0
+      "2021-04-22": 10
     }
   },
   {
