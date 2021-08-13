@@ -34,7 +34,7 @@
     "uptime": "91.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.26%",
-    "uptimeMonth": "93.72%",
+    "uptimeMonth": "94.64%",
     "uptimeYear": "91.83%",
     "time": 1426,
     "timeDay": 599,
@@ -155,9 +155,9 @@
     "url": "https://vm2.tvdn.me",
     "icon": "https://favicons.githubusercontent.com/vm2.tvdn.me",
     "slug": "vm2-tvdn-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.87%",
@@ -167,6 +167,7 @@
     "timeMonth": 288,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2021-08-13": 0,
       "2021-07-13": 48,
       "2021-04-22": 167
     }
