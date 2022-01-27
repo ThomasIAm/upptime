@@ -31,7 +31,7 @@
     "icon": "https://favicons.githubusercontent.com/wiki.tvdn.me",
     "slug": "wiki-tvdn-me",
     "status": "up",
-    "uptime": "74.89%",
+    "uptime": "74.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "92.42%",
@@ -246,9 +246,9 @@
     "url": "https://vm2.tvdn.me",
     "icon": "https://favicons.githubusercontent.com/vm2.tvdn.me",
     "slug": "vm2-tvdn-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -258,6 +258,7 @@
     "timeMonth": 306,
     "timeYear": 312,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2021-07-13": 48,
       "2021-04-22": 167
     }
