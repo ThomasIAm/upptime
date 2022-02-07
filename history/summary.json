@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 389,
+    "time": 388,
     "timeDay": 78,
-    "timeWeek": 283,
-    "timeMonth": 507,
-    "timeYear": 270,
+    "timeWeek": 282,
+    "timeMonth": 506,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2021-09-14": 45,
       "2021-03-15": 47
@@ -26,16 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/wiki.tvdn.me",
     "slug": "wiki-tvdn-me",
     "status": "up",
-    "uptime": "75.46%",
+    "uptime": "75.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.42%",
     "uptimeYear": "70.39%",
-    "time": 1317,
-    "timeDay": 451,
-    "timeWeek": 497,
-    "timeMonth": 1194,
-    "timeYear": 1306,
+    "time": 1315,
+    "timeDay": 476,
+    "timeWeek": 488,
+    "timeMonth": 1192,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2022-01-25": 57,
       "2022-01-13": 767,
@@ -162,8 +162,7 @@
       "2021-02-21": 324,
       "2021-02-20": 1200,
       "2021-02-19": 582,
-      "2021-02-18": 204,
-      "2021-02-07": 105
+      "2021-02-18": 204
     }
   },
   {
@@ -178,8 +177,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 336,
-    "timeDay": 242,
-    "timeWeek": 290,
+    "timeDay": 235,
+    "timeWeek": 280,
     "timeMonth": 311,
     "timeYear": 336,
     "dailyMinutesDown": {
@@ -200,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 317,
-    "timeDay": 243,
-    "timeWeek": 287,
-    "timeMonth": 307,
+    "timeDay": 314,
+    "timeWeek": 289,
+    "timeMonth": 308,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2021-07-13": 50,
@@ -222,9 +221,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 604,
-    "timeDay": 604,
-    "timeWeek": 514,
-    "timeMonth": 577,
+    "timeDay": 546,
+    "timeWeek": 528,
+    "timeMonth": 566,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2021-04-22": 170
@@ -241,11 +240,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 311,
-    "timeDay": 224,
-    "timeWeek": 277,
+    "time": 310,
+    "timeDay": 277,
+    "timeWeek": 284,
     "timeMonth": 292,
-    "timeYear": 311,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2021-07-13": 48,
       "2021-04-22": 167
