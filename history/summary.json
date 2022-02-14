@@ -4,9 +4,9 @@
     "url": "https://tvdn.me",
     "icon": "https://favicons.githubusercontent.com/tvdn.me",
     "slug": "tvdn-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 518,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2022-02-14": 0,
       "2021-09-14": 45,
       "2021-03-15": 47
     }
