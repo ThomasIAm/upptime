@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 369,
-    "timeDay": 232,
-    "timeWeek": 155,
+    "time": 367,
+    "timeDay": 114,
+    "timeWeek": 163,
     "timeMonth": 204,
     "timeYear": 249,
     "dailyMinutesDown": {
@@ -27,18 +27,19 @@
     "icon": "https://favicons.githubusercontent.com/wiki.tvdn.me",
     "slug": "wiki-tvdn-me",
     "status": "down",
-    "uptime": "71.44%",
+    "uptime": "71.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.42%",
-    "time": 2999,
-    "timeDay": 21454,
-    "timeWeek": 21303,
+    "uptimeYear": "60.14%",
+    "time": 3039,
+    "timeDay": 21241,
+    "timeWeek": 21302,
     "timeMonth": 21303,
-    "timeYear": 3517,
+    "timeYear": 3590,
     "dailyMinutesDown": {
-      "2022-04-21": 58,
+      "2022-04-22": 59,
+      "2022-04-21": 1440,
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
@@ -195,8 +196,7 @@
       "2021-05-30": 1440,
       "2021-05-29": 921,
       "2021-05-09": 112,
-      "2021-05-08": 3,
-      "2021-04-22": 153
+      "2021-05-08": 3
     }
   },
   {
@@ -210,15 +210,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 362,
-    "timeDay": 472,
-    "timeWeek": 377,
-    "timeMonth": 491,
-    "timeYear": 362,
+    "time": 361,
+    "timeDay": 269,
+    "timeWeek": 383,
+    "timeMonth": 488,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2021-07-13": 51,
-      "2021-05-01": 15,
-      "2021-04-22": 18
+      "2021-05-01": 15
     }
   },
   {
@@ -232,15 +231,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 340,
-    "timeDay": 469,
-    "timeWeek": 375,
-    "timeMonth": 430,
-    "timeYear": 340,
+    "time": 339,
+    "timeDay": 247,
+    "timeWeek": 366,
+    "timeMonth": 431,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2021-07-13": 50,
-      "2021-05-01": 15,
-      "2021-04-22": 153
+      "2021-05-01": 15
     }
   },
   {
@@ -255,13 +253,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 606,
-    "timeDay": 485,
-    "timeWeek": 480,
-    "timeMonth": 576,
-    "timeYear": 606,
-    "dailyMinutesDown": {
-      "2021-04-22": 170
-    }
+    "timeDay": 579,
+    "timeWeek": 487,
+    "timeMonth": 575,
+    "timeYear": 607,
+    "dailyMinutesDown": {}
   },
   {
     "name": "vm2.tvdn.me",
@@ -275,13 +271,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 323,
-    "timeDay": 423,
-    "timeWeek": 358,
-    "timeMonth": 381,
-    "timeYear": 323,
+    "timeDay": 359,
+    "timeWeek": 355,
+    "timeMonth": 385,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2021-07-13": 48,
-      "2021-04-22": 167
+      "2021-07-13": 48
     }
   }
 ]
