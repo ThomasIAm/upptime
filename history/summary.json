@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 230,
-    "timeDay": 191,
-    "timeWeek": 359,
-    "timeMonth": 303,
+    "timeDay": 155,
+    "timeWeek": 354,
+    "timeMonth": 306,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2024-03-16": 43
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.tvdn.me.ico",
     "slug": "wiki-tvdn-me",
     "status": "down",
-    "uptime": "28.52%",
+    "uptime": "28.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 117,
-    "timeDay": 241,
-    "timeWeek": 149,
-    "timeMonth": 150,
+    "timeDay": 167,
+    "timeWeek": 160,
+    "timeMonth": 153,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-08-26": 54,
+      "2024-08-27": 54,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -399,8 +400,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   },
   {
@@ -415,8 +415,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 196,
-    "timeWeek": 162,
+    "timeDay": 152,
+    "timeWeek": 167,
     "timeMonth": 177,
     "timeYear": 159,
     "dailyMinutesDown": {}
@@ -427,18 +427,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/old.tvdn.me.ico",
     "slug": "old-tvdn-me",
     "status": "down",
-    "uptime": "43.43%",
+    "uptime": "43.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 98,
-    "timeDay": 178,
-    "timeWeek": 135,
+    "timeDay": 64,
+    "timeWeek": 112,
     "timeMonth": 128,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2024-08-26": 54,
+      "2024-08-27": 54,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -801,8 +802,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   },
   {
@@ -816,11 +816,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 715,
-    "timeWeek": 625,
-    "timeMonth": 641,
-    "timeYear": 535,
+    "time": 522,
+    "timeDay": 786,
+    "timeWeek": 687,
+    "timeMonth": 643,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2023-10-30": 24
     }
@@ -831,18 +831,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vm2.tvdn.me.ico",
     "slug": "vm2-tvdn-me",
     "status": "down",
-    "uptime": "31.44%",
+    "uptime": "31.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 307,
-    "timeDay": 248,
-    "timeWeek": 125,
+    "time": 306,
+    "timeDay": 64,
+    "timeWeek": 121,
     "timeMonth": 118,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2024-08-26": 54,
+      "2024-08-27": 55,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -1205,8 +1206,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   }
 ]
