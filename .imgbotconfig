@@ -1,3 +1,9 @@
 "ignoredFiles": [
-    "graphs/**"
+    "graphs/*",
+    "graphs/ai-tvdn-me/*",
+    "graphs/old-tvdn-me/*",
+    "graphs/pp3-tvdn-me/*",
+    "graphs/tvdn-me/*",
+    "graphs/vm2-tvdn-me/*",
+    "graphs/wiki-tvdn-me/*"
 ]
